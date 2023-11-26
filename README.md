@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitandmomos
+- 👋 Hi, I’m Amit Priyadarshi
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently pursuing my Btech in computer science and engineering from Nit Trichy 
 - 💞️ I’m looking to collaborate on web d projects.
